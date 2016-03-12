@@ -1,4 +1,4 @@
-package IMS;
+package ims;
 
 import oracle.sql.DATE;
 

@@ -1,6 +1,6 @@
 package entities;
 
-public class OrderLines {
+public abstract class OrderLines {
 	int order_ID;
 	int product_ID;
 	int quantity;

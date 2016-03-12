@@ -1,4 +1,4 @@
-package IMS;
+package ims;
 
 public class StockOrderLine {
 
@@ -9,11 +9,6 @@ public class StockOrderLine {
 		
 	public StockOrderLine() {
 		// TODO Auto-generated constructor stub
-	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
 
 }

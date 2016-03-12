@@ -2,7 +2,7 @@ package entities;
 
 import java.sql.Date;
 
-public class Order {
+public abstract class Order {
 	int ID;
 	Date datePlaced;
 	Date dateDelivered;
